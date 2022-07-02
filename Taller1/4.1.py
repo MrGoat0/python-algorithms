@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+z=('*'+'+'*b+'*')
+print('*'*(b+2))
+print((''+z+'\n')*a, end='')
+print('*'*(b+2))
