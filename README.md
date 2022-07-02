@@ -1,2 +1,2 @@
 # python-algorithms
-These algorithms solve various engineering problems
+These algorithms solve various problems
